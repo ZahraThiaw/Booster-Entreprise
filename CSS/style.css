@@ -545,6 +545,11 @@ button .buttonsavoirplus i{
     text-align: center;
     color: #606060;
 }
+.textarticle{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 #articledate{
     font-family: Inter;
     font-size: 18px;
@@ -828,7 +833,7 @@ color: #394149;
     gap: 10px;
     background: #007896;
     margin-top: -0.5%;
-    margin-left: 5px;
+    margin-left: 3px;
 }
 .buttonsabonner{
     font-family: Inter;
