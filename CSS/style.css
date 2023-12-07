@@ -1,0 +1,943 @@
+/*  La section header de la page d'accueil  */
+.rectangleheader{
+    /* width: 1440px;
+    height: 100px; */
+    background: #FFFFFFCC;
+    box-shadow: 0px 4px 4px 0px #0000000D;
+}
+.customheader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1220.61px;
+    height: 54px;
+    top: 23px;
+    left: 109.39px;
+    padding: 0px, 0px, 0px, 0px;
+}
+.logobooster img{
+    width: 200.74px;
+    height: 54px;
+    top: 23px;
+    left: 109.39px;
+}
+.customheader ul{
+    width: Fixed (597px);
+    height: Hug (39px);
+    top: 30px;
+    left: 733px;
+    gap: 10px;
+
+}
+/* La navbar */
+.nav-item:hover{
+    width: Hug (89px);
+    height: Hug (39px);
+    padding: 10px, 16px, 10px, 16px;
+    border-radius: 4px;
+    gap: 10px;
+    background: #007896;
+    
+}
+.nav-link-accueil{
+    width: 57px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+}
+.nav-link-accueil:hover{
+    color: #ffffff;
+}
+.nav-link-about{
+    width: 69px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+}
+.nav-link-about:hover{
+    color: #ffffff;
+}
+.nav-link-services{
+    width: 67px;
+height: 19px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+text-decoration: none;
+}
+.nav-link-services:hover{
+    color: #ffffff;
+}
+.nav-link-portfolio{
+    width: 66px;
+height: 19px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+text-decoration: none;
+}
+.nav-link-portfolio:hover{
+    color: #ffffff;
+}
+.nav-link-blog{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+}
+.nav-link-blog:hover{
+    color: #ffffff;
+}
+.nav-link-contact{
+    width: 62px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+}
+.nav-link-contact:hover{
+    color: #ffffff;
+}
+/* .nav-link{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+} */
+/*  La section herosection de la page d'accueil  */
+.herotexte{
+    width: 477.64px;
+    height: 361px;
+    top: 242px;
+    left: 109px;
+    border-radius: 4px;
+}
+.herotexte h1{
+    width: 477.64px;
+    height: 180px;
+    top: 242px;
+    left: 109px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.digitalisation{
+    color: #FD7473;
+}
+.herotexte p{
+    /* width: 469.59px;
+    height: 76px; */
+    top: 435px;
+    left: 110.61px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #626262;
+}
+.herotexte button{
+    width: Fixed (236.31px);
+    height: Fixed (60px);
+    top: 543px;
+    left: 110.61px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 4px;
+    gap: 10px;
+    background: #007896;
+}
+.demandedevis{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+.flechehero{
+    width: 414.29px;
+height: 145px;
+top: 566px;
+left: 351.94px;
+border: 3px;
+color: #D9D9D9;
+margin-left: 55%;
+margin-top: -10%;
+}
+.rectangle17{
+    margin-top: -200%;
+    margin-left: -5%;
+}
+.heroacc{
+    margin-top: -188%;
+    margin-left: 30%;
+}
+/* .rectangle1{
+    width: 570.15px;
+    height: 642px;
+    top: 173px;
+    left: 786.34px;
+    border-radius: 100px, 20px, 100px, 20px;
+    color: #007896;
+    border: 3px solid #007896;
+}
+.rectangle2{
+    width: 570.15px;
+    height: 642px;
+    top: 154px;
+    left: 762.21px;
+    border-radius: 100px, 20px, 100px, 20px;
+    background: #D9D9D9;
+} */
+/* .heroimage{
+    width: 594.28px;
+    height: 661px;
+    top: 154px;
+    left: 762.21px;
+} */
+/* Les logos de la section herosection */
+.partnerslogo{
+    /* width: 1448px;
+    height: 100px;
+    top: 850px; */
+    background: #F1F1F1;
+}
+.logo{
+    /* width: Hug (1,019.44px);
+    height: Hug (60px); */
+    top: 870px;
+    left: 210.16px;
+    gap: 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo1{
+    width: 130.72px;
+    height: 47px;
+}
+.logo2{
+    width: 74.41px;
+    height: 60px;
+}
+.logo3{
+    width: 163.91px;
+    height: 42px;
+}
+.logo4{
+    width: 100.56px;
+    height: 51px;
+}
+.logo5{
+    width: 153.85px;
+    height: 38px;      
+}
+/*  La section à propos de la page d'accueil  */
+.row hr{
+    width: 82px;
+    height: 6px;
+    top: 1091px;
+    left: 17px;
+    border-radius: 2px;
+    background: #F6BE56;
+    padding: 2px;
+}
+#aboutsoustitre{
+    width: 410px;
+    height: 74px;
+    top: 1135px;
+    left: 110px;
+}
+.aboutfaireconfiance{
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #394149;
+}
+.aboutboosterenterprise{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    background:linear-gradient(92.24deg, #25136D 0.7%, #F2B45A 99.34%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+}
+#abouttext1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #394149;
+}
+#abouttext2{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #394149;
+}
+button .buttonsavoirplus{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #007896;
+}
+button .buttonsavoirplus i{
+    margin-left: 10px;
+}
+.pourquoibooster{
+    width: 632px;
+    height: 420px;
+    top: 1100px;
+    left: 698px;
+}
+.card img{
+    width: 45px;
+    height: 45px;
+    border-radius: 4.8px;
+    border: 3.07px solid #FFFFFF;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+.card-title{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.card-text{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #000000B2;
+}
+/* La section service de la page d'accueil */
+.cequenousproposons{
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+}
+.serviceservices{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    background:linear-gradient(92.24deg, #25136D 0.7%, #F2B45A 99.34%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+}
+.servicetext1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #606060;
+}
+/* Les services proposées */
+.servicecard{
+    height: 186.7px;
+    box-shadow: 1px 1px 16px 0px #0000001A;
+}
+.servicecard img{
+    margin-left: 40%;
+}
+.servicecard-text{
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#394149;
+}
+.realisationderniere{ 
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;  
+    color: #000000;
+}
+.realisationrealisation{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    background:linear-gradient(92.24deg, #25136D 0.7%, #F2B45A 99.34%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;  
+}
+.realisationtext1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+/* La section ce qu'ils disent de nous */
+#cequilsdisent{
+    background: #007896;
+}
+.cequeclientdit{
+    transform: translateY(25%);
+}
+#ditsclients{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+#messageclient{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFFB2;
+}
+.ellipseclient1{
+    border-radius: 5.27px;
+    transform: rotate(-10deg);
+}
+.ellipseclient2{
+    border-radius: 5.27px;
+    transform: rotate(-10deg);
+}
+.ellipseclient3{
+    border-radius: 5.27px;
+    transform: rotate(-10deg);
+}
+.card-textclient{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #000000;
+}
+.card-titleclient{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #007896;
+}
+.card-soustitleclient{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+/* La section article de la page d'accueil */
+.dernierarticle{
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+}
+.articlearticle{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    justify-content: center;
+    background:linear-gradient(92.24deg, #25136D 0.7%, #F2B45A 99.34%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+}
+#articletext{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #606060;
+}
+#articledate{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #00000080;
+    }
+#articletext1{
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+#articletext2{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.imagerectangle{
+    width: 595px;
+    height: 200px;
+    top: 4743px;
+    left: 734px;
+    border-radius: 6px;
+}
+.textarticle1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #000000;
+}
+.textarticle2{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #000000;
+    margin-top: -3%;
+}
+.buttonlirelasuite{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #007896;
+}
+.buttonlirelasuite i{
+    margin-left: 10px;
+}
+/* La section contact de la page d'acueil */
+.aidecontact{
+font-family: Inter;
+font-size: 22px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.contactcontact{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    background:linear-gradient(92.24deg, #25136D 0.7%, #F2B45A 99.34%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+}
+.contacttext{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.mailcontact i{
+    width: 31.74px;
+height: 25.6px;
+top: 5956px;
+left: 110px;
+color: #007896;
+}
+.ditessalut{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #00000080;
+}
+.contactbooster{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-left: 30px;
+}
+.phonecontact i{
+    width: 31.74px;
+    height: 31.99px;
+    top: 6043px;
+    left: 110px;
+    color: #007896;
+}
+.connectcontact .ditessalut{
+    margin-left: 10px;
+}
+.connectcontact i{
+    width: 19.83px;
+    height: 32px;
+    top: 6133px;
+    left: 110px;
+    color: #007896;
+}
+.contactsocial{
+    margin-left: 20px;
+}
+.contactsocial i{
+    width: 22.27px;
+    height: 22.27px;
+    color: #007896;
+}
+form{
+    box-shadow: 1px 1px 16px 0px #0000001A;
+    padding: 30px;
+}
+#envoyezmessage{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+form label{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+form input{
+    width: 486px;
+    height: 64px;
+    top: 5760px;
+    left: 788px;
+    border-style: none;
+    border-radius: 6px;
+    background: #F6F6F6;
+}
+form textarea{
+    width: 486px;
+    height: 140px;
+    top: 6004px;
+    left: 788px;
+    border-style: none;
+    border-radius: 6px;
+    background: #F6F6F6;
+}
+.formulairecontact button{
+    width: Hug (222px);
+    height: Fixed (60px);
+    top: 6184px;
+    left: 788px;
+    padding: 16px, 32px, 16px, 32px;
+    border-style: none;
+    border-radius: 4px;
+    gap: 10px;
+    background: #007896;
+}
+.buttonenvoyermessage{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+/* La section abonnement newsletter */
+.newsletter{
+border-radius: 10px;
+background: #FFFFFF;
+box-shadow: 1px 1px 16px 0px #0000001A;
+
+}
+.imagevector{
+    display: flex;
+    justify-content: space-between;
+}
+/* .imagevector img{
+    width: 316.02px;
+    height: 300px;
+    color: #25136D;
+} */
+.imagevector3{
+    transform: translateX(-4%);
+}
+.imagevector4{
+    transform: translateX(5%);
+}
+.messagenewletter{
+    border: 1px;
+    text-align: center;
+    transform: translateY(25%);
+}
+.messagenewletter hr{
+    width: 80px;
+    height: 6px;
+    top: 64px;
+    left: 571px;
+    border-radius: 2px;
+    background: #007896;
+    margin-left: 46%;
+}
+#abonnervousnewsletter{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #394149;
+}
+#resterinformernewsletter{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+color: #394149;
+}
+.sabonnernewsletter input{
+    width: 351px;
+    height: 39px;
+    top: 271px;
+    left: 346px;
+    border: 1px;
+    border: 1px solid #3941491A;
+    background: linear-gradient(0deg, rgba(57, 65, 73, 0.1), rgba(57, 65, 73, 0.1)),
+    linear-gradient(0deg, rgba(57, 65, 73, 0.05), rgba(57, 65, 73, 0.05));
+    padding: 10px;
+}
+.sabonnernewsletter button{
+    width: Fixed (169px);
+    height: Fixed (50px);
+    top: 271px;
+    left: 707px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 4px;
+    gap: 10px;
+    background: #007896;
+    margin-top: -0.5%;
+    margin-left: 5px;
+}
+.buttonsabonner{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#FFFFFF;
+}
+.imagevector5{
+    display: flex;
+    justify-content: end;
+
+}
+.imagevector5 img{
+    transform: translateX(2%);
+    /* width: 609.5px;
+    height: 227.45px;
+    top: 278.55px;
+    left: 649.5px; */
+}
+footer{
+    background: #EBEBEB;
+}
+#footertext1{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #000000;
+}
+.contactsocialfooter i{
+    width: 21.2px;
+    height: 21.2px;
+    color: #007896;
+}
+.navfooter ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.navfooter ul li a{
+    margin: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+#subscription{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+#sabbonnerfooter input{
+    width: 70%;
+    height: 37px;
+    top: 40px;
+    border-radius: 5px;
+    border-style: none;
+    background: #FFFFFF;
+    padding: 10px;
+}
+#sabbonnerfooter button{
+    width: Fixed (145.8px);
+    height: Fixed (48px);
+    top: 40px;
+    left: 334.8px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 4px;
+    border-style: none;
+    gap: 10px;
+    background: #F6BE56;
+    margin-left: -2%;
+    margin-top: -1%;
+}
+.buttonsabonner{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.text2footer{
+    display: flex;
+    justify-content: space-between;
+}
+.text2footer p{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    text-decoration: underline;
+}
+.allrightfooter{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
